@@ -19,3 +19,9 @@ Median - Median salary of full-time, year-round workers.
 Low_wage_jobs - Number in low-wage service jobs.
 Full_time - Number employed 35 hours or more.
 Part_time - Number employed less than 35 hours.
+
+Here are some ideas:
+
+Use a grouped bar plot to compare the number of men with the number of women in each category of majors.
+Use a box plot to explore the distributions of median salaries and unemployment rate.
+Use a hexagonal bin plot to visualize the columns that had dense scatter plots from earlier in the project.
